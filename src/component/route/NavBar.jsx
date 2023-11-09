@@ -15,7 +15,7 @@ const NavBar = () => {
                         <MenuIcon/>
                     </IconButton>
                     <Typography variant="h6">
-                        WHO.M.I
+                        WHO.M.I.
                     </Typography>
                 </Toolbar>
             </AppBar>
